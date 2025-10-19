@@ -5,6 +5,8 @@
     <meta charset="UTF-8">
     <title>Login - Areej</title>
     <link rel="stylesheet" href="../css/style.css">
+    
+
 </head>
 <body>
     <div class="container">
@@ -15,6 +17,7 @@
             <label>Password:</label>
             <input type="password" name="password" required>
             <button type="submit">Login</button>
+            <p><a href="forgot_password.php">Forgot your password?</a></p>
         </form>
     </div>
 </body>
